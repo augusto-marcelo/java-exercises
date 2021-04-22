@@ -24,9 +24,7 @@ public class Exercise17 {
         System.out.printf("Input second binary number: ");
         Long secondBinary = 11l; //sc.nextLong();
 
-        addBinary(firstBinary, secondBinary)
-
-
+        String result = addBinary(firstBinary, secondBinary);
         System.out.println("Sum of two binary numbers: " + result);
     }
 
