@@ -14,6 +14,7 @@ public class Exercise13 {
         // TIP 1: Triangle area formula -> area = 0.5 * b * h
         // TIP 2: To calculate the perimeter of a triangle, add the length of its sides.
         // For example, if a triangle has sides a, b, and c, then the perimeter of that triangle will be P = a + b + c.
+        String[] tests = new String[199];
 
         System.out.println("Program to print the Area & Perimeter of triangle");
 
