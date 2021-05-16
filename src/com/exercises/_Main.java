@@ -9,6 +9,7 @@ public class _Main {
     // Run in Debug mode to check their default values
     public static int primitiveInt;
     public static byte b;
+    public static short s;
     public static long l;
     public static float f;
     public static double d;
