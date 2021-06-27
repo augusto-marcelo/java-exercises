@@ -15,6 +15,7 @@ public class _Main {
     public static double d;
     public static boolean bool;
     public static char c;
+    public static String reference;
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
