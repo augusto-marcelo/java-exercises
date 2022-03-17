@@ -2,7 +2,8 @@ package com.exercises.basics.part.two;
 
 public class Exercise172 {
     /**
-     * 172. Write a Java program to get the number of element in a given array of integers that are smaller than the integer of another given array of integers.
+     * 172. Write a Java program to get the number of element in a given array of integers
+     * that are smaller than the integer of another given array of integers.
      *
      * Expected Output:
      * 0
